@@ -1,0 +1,25 @@
+/* DEFAULT THEME FOR WALLUST
+ */
+
+@define-color foreground #f8f8f2;
+@define-color background rgba(30, 31, 41, 230);
+@define-color background #282a36;
+@define-color cursor #f8f8f2;
+
+@define-color color0 #21222c;
+@define-color color1 #282a36;
+@define-color color2 #44475a;
+@define-color color3 #6272a4;
+@define-color color4 #8be9fd;
+@define-color color5 #bd93f9;
+@define-color color6 #ff79c6;
+@define-color color7 #f8f8f2;
+
+@define-color color8 #6272a4;
+@define-color color9 #ff5555;
+@define-color color10 #50fa7b;
+@define-color color11 #f1fa8c;
+@define-color color12 #ffb86c;
+@define-color color13 #bd93f9;
+@define-color color14 #ff79c6;
+@define-color color15 #ffb86c;
