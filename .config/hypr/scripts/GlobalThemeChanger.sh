@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+# SPDX-FileCopyrightText: 2025-present Ahum Maitra theahummaitra@gmail.com
+#
+# SPDX-License-Identifier: 	GPL-3.0-or-later
+
+# Repository url : https://github.com/TheAhumMaitra/cautious-waddle
+
 THEMES_DIR="$HOME/.config/hypr/themes"
 CONFIG_DIR=".config/"
 KITTY_CONFIG="$HOME/.config/kitty/colors.conf"
