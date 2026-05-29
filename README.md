@@ -1,4 +1,4 @@
-# THIS THEME SWITCHER OLD AND NOT SUPPORTED. PLEASE VISIT :_ https://github.com/LinuxBeginnings/Hyprland-Dots/blob/main/config/hypr/scripts/ThemeChanger.sh
+# THIS THEME SWITCHER IS OLD AND NOT SUPPORTED. PLEASE VISIT :- https://github.com/LinuxBeginnings/Hyprland-Dots/blob/main/config/hypr/scripts/ThemeChanger.sh
 
 
 # cautious-waddle - Theme switcher for Kool's Hyprland
