@@ -1,3 +1,7 @@
+# THIS THEME SWITCHER IDEA IS NOT USED. KOOLS DOTS USES WALLUST BASED THEME SWITCHER SCRIPT NOW. !!THIS PROJECT IS NOT SUPPORTED!!
+
+
+
 # cautious-waddle - Theme switcher for Kool's Hyprland
 
 You can switch to any theme you like with this theme launcher on Hyprland (Kool's Hyprland setup).
