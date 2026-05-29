@@ -1,5 +1,4 @@
-# THIS THEME SWITCHER IDEA IS NOT USED. KOOLS DOTS USES WALLUST BASED THEME SWITCHER SCRIPT NOW. !!THIS PROJECT IS NOT SUPPORTED!!
-
+# THIS THEME SWITCHER OLD AND NOT SUPPORTED. PLEASE VISIT :_ https://github.com/LinuxBeginnings/Hyprland-Dots/blob/main/config/hypr/scripts/ThemeChanger.sh
 
 
 # cautious-waddle - Theme switcher for Kool's Hyprland
